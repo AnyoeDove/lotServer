@@ -17,9 +17,13 @@ bash <(wget -qO- https://github.com/AnyoeDove/lotServer/raw/master/Install.sh) i
 bash <(wget -qO- https://github.com/AnyoeDove/lotServer/raw/master/Install.sh) uninstall
 ```
 
-## 许可证生成 -->[萌咖 API接口](https://moeclub.org/api)  
-### 如果无法生成许可证,可能API正在被无聊的人攻击.
+## 许可证生成
+```
+https://github.com/Tai7sy/LotServer_KeyGen
+```
 
-## [更新历史](http://download.appexnetworks.com.cn/releaseNotes/)     
-
+## 更新历史
+```
+http://download.appexnetworks.com.cn/releaseNotes/   
+```
   
